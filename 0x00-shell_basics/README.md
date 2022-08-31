@@ -14,4 +14,5 @@ Added a script that prints the type of the file name iamafile
 Created a symbolic link to /bin/ls, named _ls_
 Added a script that copies all the HTML files from the current working directory to the parent of the working directory
 Created a script that moves all files beginning with uppercase
+Created a script that deletes all files in the current working directory that ends with the character ~
 
