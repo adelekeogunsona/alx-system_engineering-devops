@@ -7,3 +7,4 @@ Added a script that display current directory contents with user and group IDs d
 Added a script that creates a directory in tmp directory
 Added a a script to move betty
 Added a script to delete the file betty
+Added a script to delete the directory my_first_directory
