@@ -8,3 +8,5 @@ Added a script that creates a directory in tmp directory
 Added a a script to move betty
 Added a script to delete the file betty
 Added a script to delete the directory my_first_directory
+Added a script that changes the working directory to the previous one
+
