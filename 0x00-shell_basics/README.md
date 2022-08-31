@@ -17,4 +17,5 @@ Created a script that moves all files beginning with uppercase
 Created a script that deletes all files in the current working directory that ends with the character ~
 Created a script that creates three directories on the same line
 Added a script that lists all the files and directories of the current directory separated by commas
+Created a magic file that can be used with the command file to detect School data files
 
